@@ -2,7 +2,7 @@ const nameGirl = 'Mẹ và chị';
 const giftUrl = '';
 const eventName = 'Chúc Mừng 08-03';
 const titleCard = 'Tặng mẹ và chị';
-const contentCard = 'Chúc mẹ và chị có 08/03 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với mẹ và em gái trong hôm nay và cả những ngày sau luôn mạnh khoẻ ';
+const contentCard = 'Chúc mẹ và chị có 08/03 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với mẹ và chị trong hôm nay và cả những ngày sau luôn mạnh khoẻ ';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
