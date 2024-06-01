@@ -1,8 +1,8 @@
-const nameGirl = 'Mẹ và chị';
+const nameGirl = 'Gửi tới Khánhh';
 const giftUrl = '';
-const eventName = 'Chúc Mừng 08-03';
-const titleCard = 'Tặng mẹ và chị';
-const contentCard = 'Chúc mẹ và chị có 08/03 tràn ngập niềm vui và những nụ cười. Mong điều đẹp nhất sẽ đến với mẹ và chị trong hôm nay và cả những ngày sau luôn mạnh khoẻ ';
+const eventName = 'Chúc Mừng Sinh Nhật 02-06';
+const titleCard = 'Chúc Mừng tuổi 19';
+const contentCard = 'Chúc em có một ngày sinh nhật thật ý nghĩa và nhiều niềm vui. Mong điều đẹp nhất sẽ đến với em ở tuổi 19, hãy luôn giữ nụ cười trên môi';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
