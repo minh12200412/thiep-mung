@@ -1,4 +1,4 @@
-const nameGirl = 'Chúc Mừng Sinh Nhật 02-06';
+const nameGirl = 'Chúc Mừng Sinh Nhật';
 const giftUrl = 'https://www.facebook.com/Kapwpy';
 const eventName = 'Gửi tới Khánhh';
 const titleCard = 'Chúc Mừng Tuổi 19';
