@@ -2,7 +2,7 @@ const nameGirl = 'Chúc Mừng Sinh Nhật';
 const giftUrl = 'https://www.facebook.com/Kapwpy';
 const eventName = 'Gửi tới Khánhh';
 const titleCard = 'Chúc Mừng Tuổi 19';
-const contentCard = 'Chúc em có một ngày sinh nhật thật ý nghĩa và nhiều niềm vui. Mong điều đẹp nhất sẽ đến với em ở tuổi 19, hãy luôn giữ nụ cười trên môi';
+const contentCard = 'Chúc em có một ngày sinh nhật thật ý nghĩa và nhiều niềm vui. Mong điều đẹp nhất sẽ đến với em ở tuổi 19, hãy luôn giữ nụ cười trên môi nhé!';
 
 // phần dưới dành cho các bạn biết code, nếu muốn chỉnh ảnh đơn giản với base64
 // Cần hỗ trợ hãy liên hệ: 
